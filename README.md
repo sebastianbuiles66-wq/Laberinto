@@ -1,3 +1,5 @@
+<img width="1056" height="594" alt="Hidden" src="https://github.com/user-attachments/assets/c4bcdaf2-734e-4ca8-a871-6c5425928dc3" />
+
 # 🔥 Hidden Legacy
 
 🐾 **Claws** es un ninja aventurero que ha escuchado historias sobre un antiguo tesoro oculto en el centro de un misterioso laberinto. Durante generaciones, muchos exploradores han intentado encontrarlo, pero ninguno ha logrado regresar para contar su historia.
@@ -13,4 +15,4 @@
 🔥 Ahora depende de ti ayudar a **Claws** a encontrar el **Hidden Legacy**.
 
 
-<img width="1056" height="594" alt="Hidden" src="https://github.com/user-attachments/assets/c4bcdaf2-734e-4ca8-a871-6c5425928dc3" />
+
