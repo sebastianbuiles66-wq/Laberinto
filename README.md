@@ -11,3 +11,6 @@
 ## 🎯 Objetivo
 
 🔥 Ahora depende de ti ayudar a **Claws** a encontrar el **Hidden Legacy**.
+
+
+<img width="1056" height="594" alt="Hidden" src="https://github.com/user-attachments/assets/c4bcdaf2-734e-4ca8-a871-6c5425928dc3" />
